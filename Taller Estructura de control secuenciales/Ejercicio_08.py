@@ -1,10 +1,11 @@
+from ast import Import
 import math
+
 #entradas
-lado1=float(("Ingrese lado uno: "))
-lado2=float(("Ingrese lado dos: "))
-lado3=float(("Ingrese lado tres: "))
-#caja negra
+lado1=float(input("Ingrese lado 1:"))
+lado2=float(input("Ingrese lado 2:"))
+lado3=float(input("Ingrese lado 3:"))
+#Caja
 s=(lado1+lado2+lado3)/2
-area=math.sqrt(s*(s-lado1)s*(s-lado2)s*(s-lado3))
-#salidas
-print("El area es:",+str(area))
+area=math.sqrt(s*(s-lado1)*(s-lado2)*(s-lado3))
+print ("El área es: "+str(area) )
