@@ -1,5 +1,4 @@
 #Entradas matematicas
-import math
 nota1= int (input("Ingrese la nota de su primera tarea de matemáticas: "))
 nota2= int (input("Ingrese la nota de su segunda tarea de matemáticas: "))
 nota3= int (input("Ingrese la nota de su tercera tarea de matemáticas: "))
