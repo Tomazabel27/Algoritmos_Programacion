@@ -31,7 +31,7 @@ promtareasquim=(nota6+nota7+nota8) / 3
 porentajetaeasquim=promtareasquim*0.15
 porcentajexamenqui=examen3*0.85
 promediofinalquim=porcentajexamenqui+porentajetaeasquim
-#Salidas
+#Salidas quimica
 print("Su promedio en química es de:",promediofinalquim)
 #caja negra final
 promfinal=(promediofinalmate+promediofinalfisic+promediofinalquim) / 3
