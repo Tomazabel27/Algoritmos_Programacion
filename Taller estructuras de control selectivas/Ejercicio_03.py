@@ -1,9 +1,9 @@
-#entradas
+#Entradas
 A=int(input())
 B=int(input())
 C=int(input())
 D=int(input())
-#caja negra
+#Caja negra
 operación=""
 if(D==0):
     operación=(A-C)**2
