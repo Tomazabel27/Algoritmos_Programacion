@@ -1,2 +1,4 @@
-n=[int,int,int,int]
-print(max(n))
+lista=[]
+while True:
+    print(max(lista))
+    break
