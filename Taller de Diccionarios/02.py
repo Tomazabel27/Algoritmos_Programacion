@@ -5,4 +5,4 @@ for num in dic:
     lista.append(dic[num])
 listax=set(lista)
 listav=list(listax)
-print (sorted (listav), reverse=True)
+print (sorted (listav))
